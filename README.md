@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Aman Rai from Bihar, I am Student of Computer Science,<br> I Study in Noida from Private Engineering College. 
+I am Aman Rai from Bihar, I am Student of Computer Science,<br>
 
 
 ## 🌐 Socials:
