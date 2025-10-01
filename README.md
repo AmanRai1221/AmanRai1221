@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Aman Rai from Bihar, I am Student of Computer Science,<br>
+I am Aman Rai from Bihar, a passionate web developer with a strong foundation in HTML, CSS, and React JS.
+During my studies, I honed my skills in front-end development, building interactive websites and web applications using the latest React.js technologies.
+I am adept at collaborating with teams to create user-friendly, responsive designs that deliver an optimal experience across devices.<br>
 
 
 ## 🌐 Socials:
