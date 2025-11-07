@@ -8,19 +8,24 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Facebook) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Linkdin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YouTube) 
 
 ## 🔒Private Repositories
-1. BitLinks   
+1. iCoder-A Coding Platform        
+   Founder & MD - AMAN RAI        
+   https://i-coder-a-coding-platform.vercel.app
+   
+2. BitLinks   
     https://bit-links-three.vercel.app
 
-2. WhatsApp Web   
+3. WhatsApp Web   
     https://whats-app-web-eight.vercel.app
 
-3. E-Commerce    
+4. E-Commerce       
+   Founder & MD - AMAN RAI    
     https://e-commerce-react-lime-three.vercel.app
 
-4. Portfolio Websites   
+5. Portfolio Websites   
     https://portfolio-website-one-navy-73.vercel.app
 
-5. Password Manager      
+6. Password Manager      
     https://password-manager-delta-seven.vercel.app
 
 
