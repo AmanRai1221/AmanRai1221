@@ -26,7 +26,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
     https://portfolio-website-one-navy-73.vercel.app
 
 6. Password Manager      
-    https://password-manager-delta-seven.vercel.app
+    https://password-manager-cfqv.vercel.app
 
 
 # 💻 Tech Stack:
