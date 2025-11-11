@@ -9,23 +9,27 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 
 ## 🔒Private Repositories
 1. iCoder-A Coding Platform        
-   Founder & MD - AMAN RAI        
+   Founder & Manager - AMAN RAI        
    https://i-coder-a-coding-platform.vercel.app
    
-2. BitLinks   
+2. BitLinks     
+   Designer & Manager - AMAN RAI      
     https://bit-links-three.vercel.app
 
-3. WhatsApp Web   
+3. WhatsApp Web     
+   Designer & Manager - AMAN RAI     
     https://whats-app-web-eight.vercel.app
 
 4. E-Commerce       
-   Founder & MD - AMAN RAI    
+   Founder & Manager - AMAN RAI    
     https://e-commerce-react-lime-three.vercel.app
 
-5. Portfolio Websites   
+5. Portfolio Websites     
+   Founder & Manager - AMAN RAI     
     https://portfolio-website-one-navy-73.vercel.app
 
-6. Password Manager      
+6. Password Manager     
+    Manager - AMAN RAI  
     https://password-manager-cfqv.vercel.app
 
 
