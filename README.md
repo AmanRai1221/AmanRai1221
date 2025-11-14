@@ -7,7 +7,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Facebook) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Linkdin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YouTube) 
 
-## 🔒Private Repositories
+## 🌐 Live Websites
 1. iCoder-A Coding Platform        
    Founder & Manager - AMAN RAI        
    https://i-coder-a-coding-platform.vercel.app
