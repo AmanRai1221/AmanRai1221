@@ -12,7 +12,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
    Founder & Manager - AMAN RAI        
    https://i-coder-a-coding-platform.vercel.app
    
-2. BitLinks     
+2. BitLinks (Url Shortner)    
    Designer & Manager - AMAN RAI      
     https://bit-links-three.vercel.app
 
@@ -20,7 +20,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
    Designer & Manager - AMAN RAI     
     https://whats-app-web-eight.vercel.app
 
-4. E-Commerce       
+4. BuyEase (E-Commerce)       
    Founder & Manager - AMAN RAI    
     https://e-commerce-react-lime-three.vercel.app
 
