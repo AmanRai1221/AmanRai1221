@@ -22,7 +22,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 
 4. BuyEase (E-Commerce)       
    Founder & Manager - AMAN RAI    
-    https://e-commerce-react-lime-three.vercel.app
+    https://buyease-lime-three.vercel.app
 
 5. Portfolio Websites     
    Founder & Manager - AMAN RAI     
