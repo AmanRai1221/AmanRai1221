@@ -22,31 +22,34 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 </p>
 
 ## 🌐 Live Websites
-1. FindHome (Your Rental Search Ends Here)           
+1. LMS (Learning Management System)        
+   https://lms-sand-beta.vercel.app
+   
+2. FindHome (Your Rental Search Ends Here)           
    Founder & Manager - AMAN RAI            
    https://find-home-nu.vercel.app
 
-2. iCoder-A Coding Platform        
+3. iCoder-A Coding Platform        
    Founder & Manager - AMAN RAI        
    https://i-coder-a-coding-platform.vercel.app
    
-3. BitLinks (Url Shortner)    
+4. BitLinks (Url Shortner)    
    Designer & Manager - AMAN RAI      
     https://bit-links-three.vercel.app
 
-4. WhatsApp Web     
+5. WhatsApp Web     
    Designer & Manager - AMAN RAI     
     https://whats-app-web-eight.vercel.app
 
-5. BuyEase (E-Commerce)       
+6. BuyEase (E-Commerce)       
    Founder & Manager - AMAN RAI    
     https://buyease-lime-three.vercel.app
 
-6. Portfolio Websites     
+7. Portfolio Websites     
    Founder & Manager - AMAN RAI     
     https://portfolio-website-one-navy-73.vercel.app
 
-7. Password Manager     
+8. Password Manager     
     Manager - AMAN RAI  
     https://password-manager-cfqv.vercel.app
 
