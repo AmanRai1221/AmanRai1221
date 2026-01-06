@@ -22,35 +22,37 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 </p>
 
 ## 🌐 Live Websites
-1. LMS (Learning Management System)        
+1. EduPrime (Learning Management System)       
+   Developer - AMAN RAI       
    https://lms-sand-beta.vercel.app
    
+   
 2. FindHome (Your Rental Search Ends Here)           
-   Founder & Manager - AMAN RAI            
+   Developer - AMAN RAI            
    https://find-home-nu.vercel.app
 
 3. iCoder-A Coding Platform        
-   Founder & Manager - AMAN RAI        
+   Developer - AMAN RAI        
    https://i-coder-a-coding-platform.vercel.app
    
 4. BitLinks (Url Shortner)    
-   Designer & Manager - AMAN RAI      
+   Developer - AMAN RAI      
     https://bit-links-three.vercel.app
 
 5. WhatsApp Web     
-   Designer & Manager - AMAN RAI     
+   Designed & Managed by - AMAN RAI     
     https://whats-app-web-eight.vercel.app
 
 6. BuyEase (E-Commerce)       
-   Founder & Manager - AMAN RAI    
+   Developer - AMAN RAI    
     https://buyease-lime-three.vercel.app
 
 7. Portfolio Websites     
-   Founder & Manager - AMAN RAI     
+   Developer - AMAN RAI     
     https://portfolio-website-one-navy-73.vercel.app
 
 8. Password Manager     
-    Manager - AMAN RAI  
+    Managed by - AMAN RAI  
     https://password-manager-cfqv.vercel.app
 
 
