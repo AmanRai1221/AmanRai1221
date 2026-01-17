@@ -35,9 +35,9 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
    Developer - AMAN RAI        
    https://i-coder-a-coding-platform.vercel.app
    
-4. BitLinks (Url Shortner)    
+4. Fresh Meat Wala (Online Non-veg food delivery)   
    Developer - AMAN RAI      
-    https://bit-links-three.vercel.app
+    https://fresh-meat-wala.vercel.app
 
 5. WhatsApp Web     
    Designed & Managed by - AMAN RAI     
@@ -63,7 +63,6 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanrai1221&label=Profile%20views&color=0e75b6&style=flat" alt="amanrai1221" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanrai1221" alt="amanrai1221" /></a> </p>
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmanRai1221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
