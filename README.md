@@ -26,30 +26,29 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
    Developer - AMAN RAI       
    https://lms-sand-beta.vercel.app
    
-   
-2. FindHome (Your Rental Search Ends Here)           
-   Developer - AMAN RAI            
-   https://find-home-nu.vercel.app
-
-3. iCoder-A Coding Platform        
+2. iCoder-A Coding Platform        
    Developer - AMAN RAI        
    https://i-coder-a-coding-platform.vercel.app
    
-4. Fresh Meat Wala (Online Non-veg food delivery)   
+3. Fresh Meat Wala (Online Non-veg food delivery)   
    Developer - AMAN RAI      
     https://fresh-meat-wala.vercel.app
 
-5. ToolBox - Your All-in-one Digital Tool     
+4. ToolBox - Your All-in-one Digital Tool     
    Developer - AMAN RAI     
     https://tool-box-solution.vercel.app
 
-6. BuyEase (E-Commerce)       
-   Developer - AMAN RAI    
-    https://buyease-lime-three.vercel.app
-
-7. Portfolio Websites     
+5. Portfolio Websites     
    Developer - AMAN RAI     
     https://portfolio-website-one-navy-73.vercel.app
+
+6. FindHome (Your Rental Search Ends Here)           
+   Developer - AMAN RAI            
+   https://find-home-nu.vercel.app
+
+7. BuyEase (E-Commerce)       
+   Developer - AMAN RAI    
+    https://buyease-lime-three.vercel.app
 
 8. Password Manager     
     Managed by - AMAN RAI  
