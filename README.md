@@ -7,11 +7,11 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-one-navy-73.vercel.app](https://portfolio-website-one-navy-73.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-ar.vercel.app](https://portfolio-website-ar.vercel.app)
 
 - 📫 How to reach me **amrai858109@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-website-one-navy-73.vercel.app](https://portfolio-website-one-navy-73.vercel.app)
+- 📄 Know about my experiences [https://portfolio-website-ar.vercel.app](https://portfolio-website-ar.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +40,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 
 5. Portfolio Websites     
    Developer - AMAN RAI     
-    https://portfolio-website-one-navy-73.vercel.app
+    https://portfolio-website-ar.vercel.app
 
 6. FindHome (Your Rental Search Ends Here)           
    Developer - AMAN RAI            
