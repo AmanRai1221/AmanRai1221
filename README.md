@@ -22,36 +22,44 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 </p>
 
 ## 🌐 Live Websites
-1. EduPrime (Learning Management System)       
-   Developer - AMAN RAI       
-   https://lms-sand-beta.vercel.app
+### Developer - AMAN RAI   
+
+1. CybershaktiFoundation       
+   https://cybershaktifoundation.org
+2. D3-AI (Detect, Decipher, Defend)       
+   https://ar-d3-ai.vercel.app
+3. AiroIndia        
+   https://airo-india.vercel.app
+4. SSP (Sarvjan Sewa Party)        
+   https://sarvjan-sewa-party.vercel.app
+
+5. Kanti Devi College, Mathura     
+   https://kd-college-2nd-website.vercel.app       
+   https://kanti-devi-college.vercel.app
    
-2. iCoder-A Coding Platform        
-   Developer - AMAN RAI        
+5. Portfolio Websites      
+    https://portfolio-website-ar.vercel.app
+6. EduPrime (Learning Management System)    
+   https://lms-sand-beta.vercel.app
+
+7. iCoder-A Coding Platform       
    https://i-coder-a-coding-platform.vercel.app
    
-3. Fresh Meat Wala (Online Non-veg food delivery)   
-   Developer - AMAN RAI      
+8. Fresh Meat Wala (Online Non-veg food delivery)     
     https://fresh-meat-wala.vercel.app
 
-4. ToolBox - Your All-in-one Digital Tool     
-   Developer - AMAN RAI     
+9. ToolBox - Your All-in-one Digital Tool    
     https://tool-box-solution.vercel.app
 
-5. Portfolio Websites     
-   Developer - AMAN RAI     
-    https://portfolio-website-ar.vercel.app
-
-6. FindHome (Your Rental Search Ends Here)           
-   Developer - AMAN RAI            
+10. FindHome (Your Rental Search Ends Here)         
    https://find-home-nu.vercel.app
 
-7. BuyEase (E-Commerce)       
-   Developer - AMAN RAI    
+11. BuyEase (E-Commerce)       
     https://buyease-lime-three.vercel.app
 
-8. Password Manager     
-    Managed by - AMAN RAI  
+12. WhatsApp Web     
+   https://whats-app-web-eight.vercel.app
+13. Password Manager       
     https://password-manager-cfqv.vercel.app
 
 
