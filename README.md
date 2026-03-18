@@ -29,7 +29,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 2. D3-AI (Detect, Decipher, Defend)       
    https://ar-d3-ai.vercel.app
 3. AiroIndia        
-   https://airo-india.vercel.app
+   https://airoindia.net
 4. SSP (Sarvjan Sewa Party)        
    https://ssp-luckhnow.vercel.app
 
