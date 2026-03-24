@@ -31,8 +31,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 3. AiroIndia        
    https://airoindia.net
 4. SSP (Sarvjan Sewa Party)        
-   https://ssp-luckhnow.vercel.app
-
+   https://www.sarvjansewaparty.in
 5. Kanti Devi College, Mathura     
    https://kd-college-2nd-website.vercel.app       
    https://kanti-devi-college.vercel.app
