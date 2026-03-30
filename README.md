@@ -41,8 +41,8 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 6. EduPrime (Learning Management System)    
    https://lms-sand-beta.vercel.app
 
-7. iCoder-A Coding Platform       
-   https://i-coder-a-coding-platform.vercel.app
+7. OpenCode - Digital Library       
+   https://opencodelibrary.vercel.app
    
 8. Fresh Meat Wala (Online Non-veg food delivery)     
     https://fresh-meat-wala.vercel.app
