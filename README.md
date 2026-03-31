@@ -7,11 +7,11 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-ar.vercel.app](https://portfolio-website-ar.vercel.app)
+- 👨‍💻 All of my projects are available at [https://amanrai.vercel.app](https://amanrai.vercel.app)
 
 - 📫 How to reach me **amrai858109@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-website-ar.vercel.app](https://portfolio-website-ar.vercel.app)
+- 📄 Know about my experiences [https://amanrai.vercel.app](https://amanrai.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +37,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
    https://kanti-devi-college.vercel.app
    
 5. Portfolio Websites      
-    https://portfolio-website-ar.vercel.app
+    https://amanrai.vercel.app
 6. EduPrime (Learning Management System)    
    https://lms-sand-beta.vercel.app
 
