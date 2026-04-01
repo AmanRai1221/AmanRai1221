@@ -54,7 +54,7 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
    https://find-home-nu.vercel.app
 
 11. BuyEase (E-Commerce)       
-    https://buyease-lime-three.vercel.app
+    https://buyease.vercel.app
 
 12. WhatsApp Web     
    https://whats-app-web-eight.vercel.app
