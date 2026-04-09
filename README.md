@@ -24,42 +24,45 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
 ## 🌐 Live Websites
 ### Developer - AMAN RAI   
 
-1. CybershaktiFoundation       
+1. OpenCode - Digital Library       
+   https://opencodelibrary.vercel.app
+
+2. ToolBox - Your All-in-one Digital Tool    
+    https://toolboxs.vercel.app
+
+3. Portfolio Websites      
+    https://amanrai.vercel.app
+   
+4. CybershaktiFoundation       
    https://cybershaktifoundation.org
-2. D3-AI (Detect, Decipher, Defend)       
-   https://ar-d3-ai.vercel.app
-3. AiroIndia        
+   
+5. AiroIndia        
    https://airoindia.net
-4. SSP (Sarvjan Sewa Party)        
+   
+6. D3-AI (Detect, Decipher, Defend)       
+   https://ar-d3-ai.vercel.app
+   
+7. SSP (Sarvjan Sewa Party)        
    https://www.sarvjansewaparty.in
-5. Kanti Devi College, Mathura     
+   
+8. Kanti Devi College, Mathura     
    https://kd-college-2nd-website.vercel.app       
    https://kanti-devi-college.vercel.app
    
-5. Portfolio Websites      
-    https://amanrai.vercel.app
-6. EduPrime (Learning Management System)    
+9. EduPrime (Learning Management System)    
    https://lms-sand-beta.vercel.app
-
-7. OpenCode - Digital Library       
-   https://opencodelibrary.vercel.app
    
-8. Fresh Meat Wala (Online Non-veg food delivery)     
-    https://fresh-meat-wala.vercel.app
+10. Fresh Meat Wala (Online Non-veg food delivery)     
+    https://freshmeatwala.vercel.app
 
-9. ToolBox - Your All-in-one Digital Tool    
-    https://tool-box-solution.vercel.app
+11. FindHome (Your Rental Search Ends Here)         
+   https://findhomes.vercel.app
 
-10. FindHome (Your Rental Search Ends Here)         
-   https://find-home-nu.vercel.app
-
-11. BuyEase (E-Commerce)       
+12. BuyEase (E-Commerce)       
     https://buyease.vercel.app
-
-12. WhatsApp Web     
-   https://whats-app-web-eight.vercel.app
+    
 13. Password Manager       
-    https://password-manager-cfqv.vercel.app
+    https://passwordmanage.vercel.app
 
 
 # 💻 Languages and Tools:
