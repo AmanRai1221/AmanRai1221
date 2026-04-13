@@ -38,30 +38,33 @@ I am adept at collaborating with teams to create user-friendly, responsive desig
    
 5. AiroIndia        
    https://airoindia.net
-   
-6. D3-AI (Detect, Decipher, Defend)       
+
+6. CrimeX Intelligence         
+   https://crimexintelligence.com        
+
+7. D3-AI (Detect, Decipher, Defend)       
    https://ar-d3-ai.vercel.app
    
-7. SSP (Sarvjan Sewa Party)        
+8. SSP (Sarvjan Sewa Party)        
    https://www.sarvjansewaparty.in
    
-8. Kanti Devi College, Mathura     
+9. Kanti Devi College, Mathura     
    https://kd-college-2nd-website.vercel.app       
    https://kanti-devi-college.vercel.app
    
-9. EduPrime (Learning Management System)    
+10. EduPrime (Learning Management System)    
    https://lms-sand-beta.vercel.app
    
-10. Fresh Meat Wala (Online Non-veg food delivery)     
+11. Fresh Meat Wala (Online Non-veg food delivery)     
     https://freshmeatwala.vercel.app
 
-11. FindHome (Your Rental Search Ends Here)         
+12. FindHome (Your Rental Search Ends Here)         
    https://findhomes.vercel.app
 
-12. BuyEase (E-Commerce)       
+13. BuyEase (E-Commerce)       
     https://buyease.vercel.app
     
-13. Password Manager       
+14. Password Manager       
     https://passwordmanage.vercel.app
 
 
