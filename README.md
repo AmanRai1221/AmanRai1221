@@ -1,88 +1,87 @@
-# 💫 About Me:
-I am Aman Rai from Bihar, a Web developer with a strong foundation in HTML, CSS, and React JS.
-During my studies, I honed my skills in frontend development, building interactive websites and web applications using the latest React.js technologies.
-I am adept at collaborating with teams to create user-friendly, responsive designs that deliver an optimal experience across devices.<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Aman%20Rai!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=MERN%20%20Developer%20%7C%20React%20Specialist&descAlignY=55&descAlign=50" />
 
-- 🔭 I’m working on **various projects**
+  <br>
 
-- 🌱 I’m currently learning **MERN**
+  <a href="https://linkedin.com/in/aman-rai-a56999325/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+  <a href="https://amanrai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" alt="Portfolio"></a>
+  <a href="mailto:amrai858109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
+  <a href="https://leetcode.com/u/amanrai1221/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" alt="LeetCode"></a>
+  <a href="https://fb.com/profile.php?id=100072482932331"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank" alt="Facebook"></a>
+  <a href="https://instagram.com/thenameisbimal07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" alt="Instagram"></a>
 
-- 👨‍💻 All of my projects are available at [https://amanrai.vercel.app](https://amanrai.vercel.app)
-
-- 📫 How to reach me **amrai858109@gmail.com**
-
-- 📄 Know about my experiences [https://amanrai.vercel.app](https://amanrai.vercel.app)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-rai-a56999325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-rai-a56999325/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100072482932331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100072482932331" height="30" width="40" /></a>
-<a href="https://instagram.com/thenameisbimal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisbimal07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/amanrai1221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amanrai1221/" height="30" width="40" /></a>
-</p>
-
-## 🌐 Live Websites
-### Developer - AMAN RAI   
-
-1. OpenCode - Digital Library       
-   https://opencodelibrary.vercel.app
-
-2. ToolBox - Your All-in-one Digital Tool    
-    https://toolboxs.vercel.app
-
-3. Portfolio Websites      
-    https://amanrai.vercel.app
-   
-4. CybershaktiFoundation       
-   https://cybershaktifoundation.org
-   
-5. AiroIndia        
-   https://airoindia.net
-
-6. CrimeX Intelligence         
-   https://crimexintelligence.com        
-
-7. D3-AI (Detect, Decipher, Defend)       
-   https://ar-d3-ai.vercel.app
-   
-8. SSP (Sarvjan Sewa Party)        
-   https://www.sarvjansewaparty.in
-   
-9. Kanti Devi College, Mathura     
-   https://kd-college-2nd-website.vercel.app       
-   https://kanti-devi-college.vercel.app
-   
-10. EduPrime (Learning Management System)    
-   https://lms-sand-beta.vercel.app
-   
-11. Fresh Meat Wala (Online Non-veg food delivery)     
-    https://freshmeatwala.vercel.app
-
-12. FindHome (Your Rental Search Ends Here)         
-   https://findhomes.vercel.app
-
-13. BuyEase (E-Commerce)       
-    https://buyease.vercel.app
-    
-14. Password Manager       
-    https://passwordmanage.vercel.app
-
-
-# 💻 Languages and Tools:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-
- ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanrai1221&label=Profile%20views&color=0e75b6&style=flat" alt="amanrai1221" /> </p>
-
-[![My Trophies](https://aman-github-trophies.vercel.app/api?username=AmanRai1221&theme=onedark)](https://github.com/AmanRai1221/github-trophies-custom)
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmanRai1221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmanRai1221&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanRai1221&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=amanrai1221&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AmanRai1221&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+> **Web Developer | React JS, Node, Express, Next js | Exploring the MERN Stack**
+
+Hello! I'm **Aman Rai** from Bihar. I have a strong foundation in modern frontend technologies, and I love building interactive, scalable, and responsive web applications. I focus on creating user-friendly designs that deliver optimal experiences across all devices.
+
+- 🔭 Currently working on **cutting-edge web applications.**
+- 🌱 Journeying into the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 👨‍💻 Explore my portfolio: [amanrai.vercel.app](https://amanrai.vercel.app)
+- 📫 Drop a message: **amrai858109@gmail.com**
+
+---
+
+### 💻 Technologies & Tools
+
+<div align="center">
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python" />
+  <br><br>
+  <h4>Frontend Development</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <br><br>
+  <h4>Backend & Database</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <br><br>
+  <h4>Tools & OS</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,photoshop,linux,vscode" />
+</div>
+
+<br>
+
+---
+
+### 🌟 Featured Ventures & Live Websites
+
+Here are some of the key platforms I've architected and deployed:
+
+| **Project Focus** | **Live Link** |
+| :--- | :--- |
+| 📚 **VidyaLibrary** (E-Book Library & Learning) | [vidyalibrary.vercel.app](https://vidyalibrary.vercel.app) |
+| 🛠️ **ToolBox** (All-in-one Digital Utility Suite) | [toolboxs.vercel.app](https://toolboxs.vercel.app) |
+| 👨‍💼 **Personal Portfolio** (My Professional Identity) | [amanrai.vercel.app](https://amanrai.vercel.app) |
+| 🛡️ **CyberShakti Foundation** (NGO Initiative Platform) | [cybershaktifoundation.org](https://cybershaktifoundation.org) |
+| ✈️ **AiroIndia** (Premium Aviation/Drone Services) | [airoindia.net](https://airoindia.net) |
+| 🕵️ **CrimeX Intelligence** (Intelligence Security Agency) | [crimexintelligence.com](https://crimexintelligence.com) |
+| 🧠 **D3-AI** (Detect, Decipher, Defend System) | [ar-d3-ai.vercel.app](https://ar-d3-ai.vercel.app) |
+| 🏛️ **SSP** (Sarvjan Sewa Party Portal) | [sarvjansewaparty.in](https://www.sarvjansewaparty.in) |
+| 🎓 **Kanti Devi College** (Educational Institution Hub) | [kd-college-2nd-website.vercel.app](https://kd-college-2nd-website.vercel.app) |
+| 🏫 **EduPrime** (Learning Management System) | [lms-sand-beta.vercel.app](https://lms-sand-beta.vercel.app) |
+| 🍗 **Fresh Meat Wala** (Online Non-veg Delivery) | [freshmeatwala.vercel.app](https://freshmeatwala.vercel.app) |
+| 🏠 **FindHome** (Rental Property Search) | [findhomes.vercel.app](https://findhomes.vercel.app) |
+| 🛍️ **BuyEase** (E-Commerce Platform) | [buyease.vercel.app](https://buyease.vercel.app) |
+| 🔐 **Password Manager** (Secure Credential Vault) | [passwordmanage.vercel.app](https://passwordmanage.vercel.app) |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AmanRai1221&theme=react&hide_border=true&include_all_commits=true&count_private=true" width="48%"> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanRai1221&theme=react&hide_border=true" width="48%">
+  <br><br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanRai1221&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%"> -->
+  <br><br>
+  <img src="https://aman-github-trophies.vercel.app/api?username=AmanRai1221&theme=onedark" alt="Trophies">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+</div>
