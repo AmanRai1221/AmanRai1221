@@ -55,18 +55,19 @@ Here are some of the key platforms I've architected and deployed:
 | **Project Focus** | **Live Link** |
 | :--- | :--- |
 | 📚 **VidyaLibrary** (E-Book Library & Learning) | [vidyalibrary.vercel.app](https://vidyalibrary.vercel.app) |
-| 🛠️ **ToolBox** (All-in-one Digital Utility Suite) | [toolboxs.vercel.app](https://toolboxs.vercel.app) |
+| 🧠 **D3-AI** (Detect, Decipher, Defend System) | [ar-d3-ai.vercel.app](https://ar-d3-ai.vercel.app) |
 | 👨‍💼 **Personal Portfolio** (My Professional Identity) | [amanrai.vercel.app](https://amanrai.vercel.app) |
+| 🛠️ **ToolBox** (All-in-one Digital Utility Suite) | [toolboxs.vercel.app](https://toolboxs.vercel.app) |
 | 🛡️ **CyberShakti Foundation** (NGO Initiative Platform) | [cybershaktifoundation.org](https://cybershaktifoundation.org) |
 | ✈️ **AiroIndia** (Premium Aviation/Drone Services) | [airoindia.net](https://airoindia.net) |
 | 🕵️ **CrimeX Intelligence** (Intelligence Security Agency) | [crimexintelligence.com](https://crimexintelligence.com) |
-| 🧠 **D3-AI** (Detect, Decipher, Defend System) | [ar-d3-ai.vercel.app](https://ar-d3-ai.vercel.app) |
+| 👨‍👨‍👦‍👦 **Naw Nirman Welfare Society** (NGO/Charity) | [navnirmanwelfaresociety.in](https://navnirmanwelfaresociety.in) |
 | 🏛️ **SSP** (Sarvjan Sewa Party Portal) | [sarvjansewaparty.in](https://www.sarvjansewaparty.in) |
+| 🛍️ **BuyEase** (E-Commerce Platform) | [buyease.vercel.app](https://buyease.vercel.app) |
 | 🎓 **Kanti Devi College** (Educational Institution Hub) | [kd-college-2nd-website.vercel.app](https://kd-college-2nd-website.vercel.app) |
 | 🏫 **EduPrime** (Learning Management System) | [lms-sand-beta.vercel.app](https://lms-sand-beta.vercel.app) |
 | 🍗 **Fresh Meat Wala** (Online Non-veg Delivery) | [freshmeatwala.vercel.app](https://freshmeatwala.vercel.app) |
 | 🏠 **FindHome** (Rental Property Search) | [findhomes.vercel.app](https://findhomes.vercel.app) |
-| 🛍️ **BuyEase** (E-Commerce Platform) | [buyease.vercel.app](https://buyease.vercel.app) |
 | 🔐 **Password Manager** (Secure Credential Vault) | [passwordmanage.vercel.app](https://passwordmanage.vercel.app) |
 
 ---
