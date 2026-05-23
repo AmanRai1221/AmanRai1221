@@ -63,6 +63,7 @@ Here are some of the key platforms I've architected and deployed:
 | 🕵️ **CrimeX Intelligence** (Intelligence Security Agency) | [crimexintelligence.com](https://crimexintelligence.com) |
 | 👨‍👨‍👦‍👦 **Naw Nirman Welfare Society** (NGO/Charity) | [navnirmanwelfaresociety.in](https://navnirmanwelfaresociety.in) |
 | 🏛️ **SSP** (Sarvjan Sewa Party Portal) | [sarvjansewaparty.in](https://www.sarvjansewaparty.in) |
+| 🎤 **Hindustan Radiance** (Electronic Media) | [hindustanradiance.co.in](https://hindustanradiance.co.in) |
 | 🛍️ **BuyEase** (E-Commerce Platform) | [buyease.vercel.app](https://buyease.vercel.app) |
 | 🎓 **Kanti Devi College** (Educational Institution Hub) | [kd-college-2nd-website.vercel.app](https://kd-college-2nd-website.vercel.app) |
 | 🏫 **EduPrime** (Learning Management System) | [lms-sand-beta.vercel.app](https://lms-sand-beta.vercel.app) |
