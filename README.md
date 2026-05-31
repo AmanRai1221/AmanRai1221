@@ -55,7 +55,7 @@ Here are some of the key platforms I've architected and deployed:
 | **Project Focus** | **Live Link** |
 | :--- | :--- |
 | 📚 **VidyaLibrary** (E-Book Library & Learning) | [vidyalibrary.vercel.app](https://vidyalibrary.vercel.app) |
-| 🧠 **D3-AI** (Detect, Decipher, Defend System) | [ar-d3-ai.vercel.app](https://ar-d3-ai.vercel.app) |
+| 🧠 **D3-AI** (Detect, Decipher, Defend System) | [d3aiweb.vercel.app](https://d3aiweb.vercel.app) |
 | 👨‍💼 **Personal Portfolio** (My Professional Identity) | [amanrai.vercel.app](https://amanrai.vercel.app) |
 | 🛠️ **ToolBox** (All-in-one Digital Utility Suite) | [toolboxs.vercel.app](https://toolboxs.vercel.app) |
 | 🛡️ **CyberShakti Foundation** (NGO Initiative Platform) | [cybershaktifoundation.org](https://cybershaktifoundation.org) |
