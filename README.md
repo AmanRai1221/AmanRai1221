@@ -17,12 +17,12 @@
 ---
 
 ### 💫 About Me
-> **Web Developer | React JS, Node, Express, Next js | Exploring the MERN Stack**
+> **Web Developer | MERN Developer | Exploring AI implementations**
 
 Hello! I'm **Aman Rai** from Bihar. I have a strong foundation in modern frontend technologies, and I love building interactive, scalable, and responsive web applications. I focus on creating user-friendly designs that deliver optimal experiences across all devices.
 
 - 🔭 Currently working on **cutting-edge web applications.**
-- 🌱 Journeying into the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 🌱 Journeying into the **M/P/F E R N Stack**
 - 👨‍💻 Explore my portfolio: [amanrai.vercel.app](https://amanrai.vercel.app)
 - 📫 Drop a message: **amrai858109@gmail.com**
 
@@ -32,13 +32,13 @@ Hello! I'm **Aman Rai** from Bihar. I have a strong foundation in modern fronten
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,bash" />
   <br><br>
   <h4>Frontend Development</h4>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
   <br><br>
   <h4>Backend & Database</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgres" />
   <br><br>
   <h4>Tools & OS</h4>
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,photoshop,linux,vscode" />
@@ -56,19 +56,19 @@ Here are some of the key platforms I've architected and deployed:
 | :--- | :--- |
 | 📚 **VidyaLibrary** (E-Book Library & Learning) | [vidyalibrary.vercel.app](https://vidyalibrary.vercel.app) |
 | 👨‍💼 **Personal Portfolio** (My Professional Identity) | [amanrai.vercel.app](https://amanrai.vercel.app) |
+| ✈️ **AiroIndia** (Premium Aviation/Drone Services) | [airoindia.net](https://airoindia.net) |
+| 🕵️ **CrimeX Intelligence** (Intelligence Security Agency) | [crimexintelligence.in](https://crimexintelligence.in) |
 | 🛠️ **ToolBox** (All-in-one Digital Utility Suite) | [toolboxs.vercel.app](https://toolboxs.vercel.app) |
 | 🛡️ **CyberShakti Foundation** (NGO Initiative Platform) | [cybershaktifoundation.org](https://cybershaktifoundation.org) |
-| ✈️ **AiroIndia** (Premium Aviation/Drone Services) | [airoindia.net](https://airoindia.net) |
-| 🕵️ **CrimeX Intelligence** (Intelligence Security Agency) | [crimexintelligence.com](https://crimexintelligence.com) |
 | 👨‍👨‍👦‍👦 **Naw Nirman Welfare Society** (NGO/Charity) | [navnirmanwelfaresociety.in](https://navnirmanwelfaresociety.in) |
 | 🏛️ **SSP** (Sarvjan Sewa Party Portal) | [sarvjansewaparty.in](https://www.sarvjansewaparty.in) |
 | 🎤 **Hindustan Radiance** (Electronic Media) | [hindustanradiance.co.in](https://hindustanradiance.co.in) |
 | 🛍️ **BuyEase** (E-Commerce Platform) | [buyease.vercel.app](https://buyease.vercel.app) |
-| 🎓 **Kanti Devi College** (Educational Institution Hub) | [kd-college-2nd-website.vercel.app](https://kd-college-2nd-website.vercel.app) |
-| 🏫 **EduPrime** (Learning Management System) | [lms-sand-beta.vercel.app](https://lms-sand-beta.vercel.app) |
 | 🍗 **Fresh Meat Wala** (Online Non-veg Delivery) | [freshmeatwala.vercel.app](https://freshmeatwala.vercel.app) |
+| 🏫 **EduPrime** (Learning Management System) | [lms-sand-beta.vercel.app](https://lms-sand-beta.vercel.app) |
 | 🏠 **FindHome** (Rental Property Search) | [findhomes.vercel.app](https://findhomes.vercel.app) |
 | 🔐 **Password Manager** (Secure Credential Vault) | [passwordmanage.vercel.app](https://passwordmanage.vercel.app) |
+| 🎓 **Kanti Devi College** (Educational Institution Hub) | [kd-college-2nd-website.vercel.app](https://kd-college-2nd-website.vercel.app) |
 
 ---
 
