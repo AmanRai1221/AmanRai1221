@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=I'm%20Aman%20Rai!&fontSize=52&animation=fadeIn&fontAlignY=43&desc=Web%20Developer&descSize=24&descAlignY=62&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=I'm%20Aman%20Rai&fontSize=52&animation=fadeIn&fontAlignY=43&desc=Web%20Developer&descSize=24&descAlignY=62&descAlign=50" />
 
   <br>
 
